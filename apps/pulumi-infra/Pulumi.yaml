@@ -1,0 +1,3 @@
+name: pulumi-infra
+runtime: nodejs
+description: tec-2000.co.uk infrastructure

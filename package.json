@@ -1,5 +1,5 @@
 {
-  "name": "turborepo-basic-shared",
+  "name": "tec2000",
   "version": "0.0.0",
   "private": true,
   "workspaces": [
@@ -17,8 +17,8 @@
     "turbo": "latest"
   },
   "engines": {
-    "npm": ">=7.0.0",
-    "node": ">=14.0.0"
+    "npm": "8",
+    "node": "18"
   },
   "packageManager": "npm@8.1.2"
 }
